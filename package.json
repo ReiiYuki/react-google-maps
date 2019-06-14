@@ -1,13 +1,9 @@
 {
-  "name": "react-google-maps",
+  "name": "@reiiyuki/react-google-maps",
   "version": "9.4.5",
   "description": "React.js Google Maps integration component",
   "license": "MIT",
-  "author": {
-    "name": "tomchentw",
-    "email": "developer@tomchentw.com",
-    "url": "https://github.com/tomchentw"
-  },
+  "author": "reiiyuki",
   "repository": {
     "type": "git",
     "url": "https://github.com/tomchentw/react-google-maps"
